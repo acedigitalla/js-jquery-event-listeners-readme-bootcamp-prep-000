@@ -4,9 +4,9 @@ function getIt() {
     alert(`Hey!`)
 });
 }
+/*
 function frameIt() {
   $('img').on('load', function(){
-  //actions you want to happen
 });
 }
 function pressIt() {
@@ -26,7 +26,7 @@ function submitIt() {
   return;
 })
 }
-
+//
 
 $(document).ready(function(){
 // call functions here
